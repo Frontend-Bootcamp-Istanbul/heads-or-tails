@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import CoinFlipper from './CoinFlipper';
+import CoinFlipper from './CoinFlipper.jsx';
 
 function App() {
   return (
