@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-yazi-tura-uygulamasi-odev-vacit/precache-manifest.c18fc71ff3b009465c57867da92d195d.js"
+  "/react-yazi-tura-uygulamasi-odev-vacit.git/precache-manifest.9e70920017ffb4c1a193a65cd84fc694.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/react-yazi-tura-uygulamasi-odev-vacit/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/react-yazi-tura-uygulamasi-odev-vacit.git/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
