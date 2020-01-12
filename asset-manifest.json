@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/css/main.6f842b94.chunk.css",
-    "main.js": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/js/main.a7880d72.chunk.js",
-    "main.js.map": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/js/main.a7880d72.chunk.js.map",
-    "runtime~main.js": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/js/runtime~main.89d1d193.js",
-    "runtime~main.js.map": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/js/runtime~main.89d1d193.js.map",
-    "static/js/2.c202c282.chunk.js": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/js/2.c202c282.chunk.js",
-    "static/js/2.c202c282.chunk.js.map": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/js/2.c202c282.chunk.js.map",
-    "index.html": "/react-yazi-tura-uygulamasi-odev-vacit.git/index.html",
-    "precache-manifest.9e70920017ffb4c1a193a65cd84fc694.js": "/react-yazi-tura-uygulamasi-odev-vacit.git/precache-manifest.9e70920017ffb4c1a193a65cd84fc694.js",
-    "service-worker.js": "/react-yazi-tura-uygulamasi-odev-vacit.git/service-worker.js",
-    "static/css/main.6f842b94.chunk.css.map": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/css/main.6f842b94.chunk.css.map",
-    "static/media/1-lira-tura.png": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/media/1-lira-tura.7c42669a.png",
-    "static/media/1-lira-yazi.png": "/react-yazi-tura-uygulamasi-odev-vacit.git/static/media/1-lira-yazi.9b70882e.png"
+    "main.css": "/heads-or-tails.git/static/css/main.6f842b94.chunk.css",
+    "main.js": "/heads-or-tails.git/static/js/main.473e52c8.chunk.js",
+    "main.js.map": "/heads-or-tails.git/static/js/main.473e52c8.chunk.js.map",
+    "runtime~main.js": "/heads-or-tails.git/static/js/runtime~main.961983df.js",
+    "runtime~main.js.map": "/heads-or-tails.git/static/js/runtime~main.961983df.js.map",
+    "static/js/2.c202c282.chunk.js": "/heads-or-tails.git/static/js/2.c202c282.chunk.js",
+    "static/js/2.c202c282.chunk.js.map": "/heads-or-tails.git/static/js/2.c202c282.chunk.js.map",
+    "index.html": "/heads-or-tails.git/index.html",
+    "precache-manifest.2d171b35ec3e83e0147e911ea07a9e97.js": "/heads-or-tails.git/precache-manifest.2d171b35ec3e83e0147e911ea07a9e97.js",
+    "service-worker.js": "/heads-or-tails.git/service-worker.js",
+    "static/css/main.6f842b94.chunk.css.map": "/heads-or-tails.git/static/css/main.6f842b94.chunk.css.map",
+    "static/media/1-lira-tura.png": "/heads-or-tails.git/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "/heads-or-tails.git/static/media/1-lira-yazi.9b70882e.png"
   }
 }
