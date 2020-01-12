@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f842b94.chunk.css",
-    "main.js": "/static/js/main.42f0a905.chunk.js",
-    "main.js.map": "/static/js/main.42f0a905.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.c202c282.chunk.js": "/static/js/2.c202c282.chunk.js",
-    "static/js/2.c202c282.chunk.js.map": "/static/js/2.c202c282.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7edd8e659a53e928623921c3fb5d1fc4.js": "/precache-manifest.7edd8e659a53e928623921c3fb5d1fc4.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6f842b94.chunk.css.map": "/static/css/main.6f842b94.chunk.css.map",
-    "static/media/1-lira-tura.png": "/static/media/1-lira-tura.7c42669a.png",
-    "static/media/1-lira-yazi.png": "/static/media/1-lira-yazi.9b70882e.png"
+    "main.css": "/react-yazi-tura-uygulamasi-odev-vacit/static/css/main.6f842b94.chunk.css",
+    "main.js": "/react-yazi-tura-uygulamasi-odev-vacit/static/js/main.1d4c4aa7.chunk.js",
+    "main.js.map": "/react-yazi-tura-uygulamasi-odev-vacit/static/js/main.1d4c4aa7.chunk.js.map",
+    "runtime~main.js": "/react-yazi-tura-uygulamasi-odev-vacit/static/js/runtime~main.e3e0e41e.js",
+    "runtime~main.js.map": "/react-yazi-tura-uygulamasi-odev-vacit/static/js/runtime~main.e3e0e41e.js.map",
+    "static/js/2.c202c282.chunk.js": "/react-yazi-tura-uygulamasi-odev-vacit/static/js/2.c202c282.chunk.js",
+    "static/js/2.c202c282.chunk.js.map": "/react-yazi-tura-uygulamasi-odev-vacit/static/js/2.c202c282.chunk.js.map",
+    "index.html": "/react-yazi-tura-uygulamasi-odev-vacit/index.html",
+    "precache-manifest.c18fc71ff3b009465c57867da92d195d.js": "/react-yazi-tura-uygulamasi-odev-vacit/precache-manifest.c18fc71ff3b009465c57867da92d195d.js",
+    "service-worker.js": "/react-yazi-tura-uygulamasi-odev-vacit/service-worker.js",
+    "static/css/main.6f842b94.chunk.css.map": "/react-yazi-tura-uygulamasi-odev-vacit/static/css/main.6f842b94.chunk.css.map",
+    "static/media/1-lira-tura.png": "/react-yazi-tura-uygulamasi-odev-vacit/static/media/1-lira-tura.7c42669a.png",
+    "static/media/1-lira-yazi.png": "/react-yazi-tura-uygulamasi-odev-vacit/static/media/1-lira-yazi.9b70882e.png"
   }
 }
